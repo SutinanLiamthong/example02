@@ -25,6 +25,9 @@ class LoginScreen(GridLayout):
         password = self.password.text
         print(password)
 
+    #function 1
+    #function 2
+
 class MyApp(App):
 
     def build(self):
