@@ -26,7 +26,13 @@ class LoginScreen(GridLayout):
         print(password)
 
     #function 1
+        #function 1.1
+        #function 1.2
+        #function 1.3
     #function 2
+        #function 2.1
+        #function 2.2
+        #function 2.3
     #function 3
     #function 4
 
