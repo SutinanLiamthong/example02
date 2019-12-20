@@ -38,6 +38,9 @@ class LoginScreen(GridLayout):
         #function 3.2
         #function 3.3
     #function 4
+        #function 4.1
+        #function 4.2
+        #function 4.3
 
 class MyApp(App):
 
